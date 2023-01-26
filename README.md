@@ -6,3 +6,5 @@ Used Kaggle dataset - https://www.kaggle.com/datasets/marikastewart/employee-tur
 
 Please use Dockerfile for running app - Fast API swagger (refer to 
 instruction pictures).
+
+Heroku app link - https://turnover-app.herokuapp.com/
